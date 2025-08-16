@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there 👋  </h3>
 
 
-I'm Alok Tripathi (gnsalok), a coding enthusiast with an insatiable passion for unraveling the mysteries of algorithms, data structures, and problem-solving. Curious to know what's brewing in my digital cauldron? Take a peek 👇
+I'm Alok, a coding enthusiast with an insatiable passion for unraveling the mysteries of algorithms, data structures, and problem-solving. Curious to know what's brewing in my digital cauldron? Take a peek 👇
 
 - 👨‍💻 I write code.
 - 📚 I’m currently learning more about distributed systems and cloud computing.
